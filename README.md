@@ -1,3 +1,5 @@
+<video src="Screen recording 2026-10-27 13.38.03.webm" width="100%" autoplay loop muted playsinline></video>
+
 INVESTMENT BACKTESTER
 Core Application Modules
 
