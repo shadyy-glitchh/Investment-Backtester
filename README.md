@@ -1,4 +1,3 @@
-<video src="Screen recording 2026-10-27 13.38.03.webm" width="100%" autoplay loop muted playsinline></video>
 
 INVESTMENT BACKTESTER
 Core Application Modules
@@ -32,5 +31,5 @@ The diagnostic metrics displayed at the bottom of the dashboard are completely d
 • Estimated Scenario Spread: Highlights the upper and lower confidence intervals of your forecast, explicitly showing you your extreme worst-case market crash exposure (tail-risk) alongside your maximum upside potential.
 
 • Historical Annualized Return: Computes the true Compound Annual Growth Rate (CAGR) your specific portfolio weight allocation achieved during the chosen historical backtest timeframe.
-If you want, I can now combine these polished breakdowns into a complete, copy-pasteable README file formatted cleanly for your GitHub portfolio repository. Would you like me to generate that for you?
-AI responses may include mistakes. Learn more
+
+<video src="Screen recording 2026-10-27 13.38.03.webm" width="100%" autoplay loop muted playsinline></video>
